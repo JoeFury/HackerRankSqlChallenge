@@ -57,9 +57,15 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Advanced Select" />
+    <Folder Include="Aggregation" />
+    <Folder Include="Advanced Join" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Advanced Select\NewCompanies.sql" />
+    <None Include="Aggregation\TopEarners.sql" />
+    <None Include="Advanced Join\SqlProjectPlanning.sql" />
+    <None Include="Advanced Join\Placements.sql" />
+    <None Include="Advanced Join\SymmetricPairs.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Advanced Select\BinaryTreeNodes.sql" />
